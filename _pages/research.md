@@ -7,7 +7,7 @@ author_profile: true
 ## Generalization of DeGroot Model
 * Investigate the generalization of DeGroot model in social networks, applying techniques in Information Theory and Operations Research
 
-## [NYC Discrete Math Research Experience for Undergraduates (REU) Program]{https://geometrynyc.wixsite.com/home/combinatorics-reu}
+## [NYC Discrete Math Research Experience for Undergraduates (REU) Program](https://geometrynyc.wixsite.com/home/combinatorics-reu)
 * Studied Discrete Geometry and Combinatorial topology, with a focus on Helly’s theorem and Ham sandwich theorem
 * Proved an upperbound of the fractional Helly number for any family \\(\mathcal F\\) of linear partitions in the \\(n\\)
   dimensional projective space by bounding the dual VC-dimension of \\(\mathcal F\\)
