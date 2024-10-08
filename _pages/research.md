@@ -4,22 +4,22 @@ title: "Research"
 author_profile: true
 ---
 
+
+## Packing and Covering Problem
+
+* Conducted research on packing, covering and tiling for various integer sets; explored the applications
+in integer programming
+* Proved the packing densities of sets of four integers is \\(\frac{1}{7}\\) , achieved by \\(\{0, 1, 4, 7\}\\)
+
 ## Collapsibility Thresholds for Geometric Complexes on Spheres
 
 * Conducted research on random simplicial complexes; studied their geometric and topological
 properties; explored their applications in stochastic topology and topological data analysis
 * Co-authored a paper about the threshold of \\(r\\) for the k-collapsibility of a uniformly and randomly
 distributed \\(\emph{Vietoris Rips}\\) complex on a \\(d\\)-sphere with \\(n\\) points and distance parameter \\(r\\)
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+
+
+
 
 ## Tips and hints
 
