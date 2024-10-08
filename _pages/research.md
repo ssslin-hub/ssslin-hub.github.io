@@ -4,6 +4,14 @@ title: "Research"
 author_profile: true
 ---
 
+## Generalization of DeGroot Model
+* Investigate the generalization of DeGroot model in social networks, applying techniques in Information Theory and Operations Research
+
+## [NYC Discrete Math Research Experience for Undergraduates (REU) Program]{https://geometrynyc.wixsite.com/home/combinatorics-reu}
+* Studied Discrete Geometry and Combinatorial topology, with a focus on Helly’s theorem and Ham sandwich theorem
+* Proved an upperbound of the fractional Helly number for any family \\(\mathcal F\\) of linear partitions in the \\(n\\)
+  dimensional projective space by bounding the dual VC-dimension of \\(\mathcal F\\)
+
 
 ## Packing and Covering Problem
 
@@ -15,7 +23,7 @@ in integer programming
 
 * Conducted research on random simplicial complexes; studied their geometric and topological
 properties; explored their applications in stochastic topology and topological data analysis
-* Co-authored a paper about the threshold of \\(r\\) for the k-collapsibility of a uniformly and randomly
+* Co-authored a paper about the threshold of \\(r\\) for the \\(k\\)-collapsibility of a uniformly and randomly
 distributed *Vietoris Rips* complex on a \\(d\\)-sphere with \\(n\\) points and distance parameter \\(r\\)
 
 
