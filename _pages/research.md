@@ -16,7 +16,7 @@ in integer programming
 * Conducted research on random simplicial complexes; studied their geometric and topological
 properties; explored their applications in stochastic topology and topological data analysis
 * Co-authored a paper about the threshold of \\(r\\) for the k-collapsibility of a uniformly and randomly
-distributed \\(\emph{Vietoris Rips}\\) complex on a \\(d\\)-sphere with \\(n\\) points and distance parameter \\(r\\)
+distributed *Vietoris Rips* complex on a \\(d\\)-sphere with \\(n\\) points and distance parameter \\(r\\)
 
 
 
