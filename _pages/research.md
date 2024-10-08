@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-## Generalization of DeGroot Model
+## Generalization of the DeGroot Model
 <div style="text-align: right"> <font size="2"> Mentor: Dr. Alan Scheller-Wolf </font> </div>
 <div style="text-align: right"> <font size="2"> Aug. 2024 - Present </font> </div>
 * Investigate the generalization of DeGroot model in social networks, applying techniques in Information Theory and Operations Research
