@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year undergraduate student at [Department of Mathematical Sciences]{https://www.cmu.edu/math/index.html} at [Carnegie Mellon University]{https://www.cmu.edu/}. I also have two minors in Computer Science and Statistics, respecitvely.
+I am a fourth-year undergraduate student at [Department of Mathematical Sciences]{https://www.cmu.edu/math/index.html} at Carnegie Mellon University. I also have two minors in Computer Science and Statistics, respecitvely.
