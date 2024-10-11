@@ -22,7 +22,7 @@ author_profile: true
 <div style="text-align: right"> <font size="2"> Aug. 2023 - May 2024 </font> </div>
 * Conducted research on packing, covering and tiling for various integer sets; explored the applications
 in integer programming
-* Proved the packing densities of sets of four integers is \\(\frac{1}{7}\\) , achieved by \\({0, 1, 4, 7}\\)
+* Proved the packing densities of sets of four integers is \\(\frac{1}{7}\\) , achieved by \\( \{0, 1, 4, 7\} \\)
 
 ## Collapsibility Thresholds for Geometric Complexes on Spheres
 <div style="text-align: right"> <font size="2"> Mentor: Dr. Andrew Newman </font> </div>
