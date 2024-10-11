@@ -10,7 +10,7 @@ author_profile: true
 * Fall 2022: Differential & Integral Calculus
 
 ### Math Motivator (Tutor)
-* Fall 2023: Calculus
+* Fall 2023: AP Calculus
 
 ### Blissful Us (Instructor)
 * Summer 2022: Programming in Python
