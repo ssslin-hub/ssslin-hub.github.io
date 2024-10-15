@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "我的照片.jpeg"
+  avatar           : "我的照片2.jpg"
   name             : "Iris Ye"
   pronouns         : # example: "she/her"  
   bio              : "Math Undergraduate Student at CMU"
