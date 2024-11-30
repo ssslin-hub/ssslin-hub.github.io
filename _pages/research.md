@@ -16,6 +16,8 @@ author_profile: true
 * Studied Discrete Geometry and Combinatorial topology, with a focus on Helly’s theorem and Ham sandwich theorem
 * Proposed and proved an upperbound of the fractional Helly number for any family \\(\mathcal F\\) of linear partitions in the \\(n\\)
   dimensional projective space by bounding the dual VC-dimension of \\(\mathcal F\\)
+* Delivered a presentation on the research, with slides available [here](https://github.com/user-attachments/files/17964330/Helly_Final_Presentation.6.pdf)
+
 
 
 ## Packing and Covering Problem
