@@ -25,7 +25,8 @@ author_profile: true
 <div style="text-align: right"> <font size="2"> Aug. 2023 - May 2024 </font> </div>
 * Conducted research on packing, covering and tiling for various integer sets; explored the applications
 in integer programming
-* A paper that proposed and proved the packing densities of sets of four integers is \\(\frac{1}{7}\\) , achieved by \\( \\{0,1,4,6\\} \\), can be found [here](https://github.com/user-attachments/files/17964318/packing_problem.3.pdf)
+* A paper that proposed and proved the packing densities of sets of four integers is \\(\frac{1}{7}\\) , achieved by \\( \\{0,1,4,6\\} \\), can be found [here](https://github.com/user-attachments/files/18137418/Packing_Paper.pdf)
+
 
 
 ## Collapsibility Thresholds for Geometric Complexes on Spheres
