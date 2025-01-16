@@ -4,7 +4,11 @@ title: "Teaching"
 author_profile: true
 ---
 
-### Carnegie Mellon University (Teaching Assistant)
+### Carnegie Mellon University 
+## Grader
+* Spring 2025: Operations Research
+
+## Teaching Assistant
 * Spring 2024: Matrix Algebra with Applications
 * Spring 2023: Concepts of Mathematics
 * Fall 2022: Differential & Integral Calculus
